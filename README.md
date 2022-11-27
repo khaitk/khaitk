@@ -17,5 +17,5 @@
 
 ## Contact me on
 - 📫 How to reach me: 
-- ![Facebook](https://img.shields.io/badge/facebook?style=for-the-badge&logo=facebook&logoColor=white) https://www.facebook.com/vanmaikhai121199
+- ![Facebook](https://img.shields.io/badge/Facebook?style=for-the-badge&logo=Facebook&logoColor=white) https://www.facebook.com/vanmaikhai121199
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/khaidev/
