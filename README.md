@@ -1,24 +1,14 @@
-- 👋 Hi, I’m Khai TK
-- 🌱 I’m currently learning PHP
-- 📫 How to reach me:  [Blogger](https://khaitk.blogspot.com/) | [Facebook](https://www.facebook.com/vanmaikhai121199) | 
+![banner (1)](https://user-images.githubusercontent.com/66162813/208429621-adbf8de5-0173-4ad2-97f7-68143e09581f.png)
 
+<h2>Hey! 👋</h2>
+I'm Van Mai Khai! <br>
+- <i>Currently:</i> I'm a website developer<br>
+- <i>Previously:</i> I used to study at VKU<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaitk&layout=compact)
-
-
-## My Technical
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img</p>
-
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-* ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SCSS&logoColor=white) 
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-* ![MySQL](https://img.shields.io/badge/MySQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
-* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## Contact me on
-- 📫 How to reach me: 
-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) https://www.instagram.com/khaidev/
+<div>
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaitk" alt="GitHub Stats" /> <br/><br/>
+  </p>
+</div>
