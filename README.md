@@ -4,13 +4,13 @@
 
 <h3 align="center">
         <samp>&gt; Hi 👋, I'm 
-                <b><a target="_blank" href="https://alsiam.com">Van Mai Khai</a></b>
+                <b><a target="_blank" href="https://khaitk.blogspot.com/">Van Mai Khai</a></b>
         </samp>
 </h3>
 <p align="center">
         <!-- Organisation  -->
         <samp>
-          <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
+          <a href="https://www.google.com/search?q=kh%E1%BA%A3i+tk">「 Google Me 」</a>
                 <br>
                 「 I am a full stack web appplication developer from <b>Vietnam</b> 」
                 <br>
