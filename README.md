@@ -1,6 +1,23 @@
-<h1 align="center">Hi 👋, I'm Van Mai Khai</h1>
+<a href="https://gpvc.arturio.dev/khaitk"><img src="https://gpvc.arturio.dev/khaitk" align="right" alt="Visits"></a>
 
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
+<h3 align="center">
+        <samp>&gt; Hi 👋, I'm 
+                <b><a target="_blank" href="https://alsiam.com">Van Mai Khai</a></b>
+        </samp>
+</h3>
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+          <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
+                <br>
+                「 I am a full stack web appplication developer from <b>Vietnam</b> 」
+                <br>
+          <br><br>
+        </samp>
+    </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <h5 align="left"> - Front end:</h5>
@@ -74,3 +91,42 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  </p>
+ 
+<details open="">
+<summary>
+ 📔 GitHub Stats:
+</summary>
+<br>
+<p align="center">
+  <a href="https://github.com/khaitk">
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=khaitk&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/khaitk">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaitk&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaitk&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="KhaiTK" /></p>
+</details>
+
+
+<h4> Connect with me🤝: <h4>
+  </hr>
+<!--   <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
+   <img align="left" alt="Khai TK | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a> -->
+  <a href="mailto:khaitkdev@gmail.com">
+    <img align="left" alt="Khai TK | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://twitter.com/khaitk">
+    <img align="left" alt="Khai TK| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>
+  <a href="https://www.instagram.com/khaitkweb">
+    <img align="left" alt="Khai TK| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+   <a href="https://www.facebook.com/khaitkdev">
+    <img align="left" alt="Khai TK| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
+   <a href="https://github.com/khaitk">
+    <img align="left" alt="Khai TK| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <br>
