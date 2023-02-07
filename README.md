@@ -12,7 +12,7 @@
         <samp>
           <a href="https://www.google.com/search?q=kh%E1%BA%A3i+tk">「 Google Me 」</a>
                 <br>
-                「 I am a full stack web appplication developer from <b>Vietnam</b> 」
+                「 I am a web appplication developer from <b>Vietnam</b> 」
                 <br>
           <br><br>
         </samp>
