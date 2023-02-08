@@ -108,7 +108,7 @@
 </details>
 
 
-<h4> Connect with me🤝: <h4>
+<h4> Contact with me🤝: <h4>
   </hr>
 <!--   <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
    <img align="left" alt="Khai TK | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
