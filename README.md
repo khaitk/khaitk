@@ -18,9 +18,13 @@
         </samp>
     </p>
 
+ <h3 >Languages and Tools: </h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<h5 align="left"> - Front end:</h5>
+<details open="">
+<summary>
+      Front end:
+</summary>
+
 <p align="left"> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
@@ -29,7 +33,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
 </p>
-<h5 align="left"> - Back end:</h5>
+ </details>
+ 
+ <details open="">
+<summary>
+      Back end
+</summary>
 <p align="left"> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
@@ -49,7 +58,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
 </p>
-<h5 align="left"> - Database:</h5>
+ </details>
+ 
+  <details open="">
+<summary>
+      Database
+</summary>
+
 <p align="left"> 
   
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
@@ -72,7 +87,13 @@
 
   </a> 
 </p>
-<h5 align="left"> - Other:</h5>
+ </details>
+
+  <details open="">
+<summary>
+      Other
+</summary>
+
 <p align="left"> 
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
@@ -90,6 +111,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  </p>
+ </details>
  
 <details open="">
 <summary>
