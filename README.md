@@ -1,4 +1,4 @@
-<a href="https://gpvc.arturio.dev/khaitk"><img src="https://gpvc.arturio.dev/khaitk" align="right" alt="Visits"></a>
+<!-- <a href="https://gpvc.arturio.dev/khaitk"><img src="https://gpvc.arturio.dev/khaitk" align="right" alt="Visits"></a> -->
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@392c3515-8a19-481e-89e4-30bb7a1fc9f3)
 
