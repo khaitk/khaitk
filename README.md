@@ -138,9 +138,6 @@
   <a href="mailto:khaitkdev@gmail.com">
     <img align="left" alt="Khai TK | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://twitter.com/khaitk">
-    <img align="left" alt="Khai TK| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
   <a href="https://www.instagram.com/khaitkweb">
     <img align="left" alt="Khai TK| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
