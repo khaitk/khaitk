@@ -127,7 +127,10 @@
 </p>
   <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=khaitk&theme=highcontrast&hide_border=true&border_radius=10" alt="KhaiTK" /></p> </br>
 <!--     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaitk&theme=tokyonight" alt="KhaiTK" /></p> -->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaitk&row=1" alt="khaitk" /></a> </p>
 </details>
+
 
 
 <h4> Contact with me🤝: <h4>
