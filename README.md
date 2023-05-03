@@ -110,6 +110,10 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
+        
+  <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket-io" width="40" height="40"/> 
+  </a> 
  </p>
  </details>
  
