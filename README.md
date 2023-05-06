@@ -134,7 +134,7 @@
 <!--     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaitk&theme=tokyonight" alt="KhaiTK" /></p> -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaitk&row=1" alt="khaitk" /></a> </p> -->
-</details> -->
+<!-- </details>  -->
 
 
 
