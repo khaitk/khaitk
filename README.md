@@ -117,7 +117,7 @@
  </p>
  </details>
  
-<details open="">
+<!-- <details open="">
 <summary>
  📔 GitHub Stats:
 </summary>
@@ -130,11 +130,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaitk&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a> </br>
 </p> -->
-  <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=khaitk&theme=highcontrast&hide_border=true&border_radius=10" alt="KhaiTK" /></p> </br>
+<!--   <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=khaitk&theme=highcontrast&hide_border=true&border_radius=10" alt="KhaiTK" /></p> </br> -->
 <!--     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaitk&theme=tokyonight" alt="KhaiTK" /></p> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaitk&row=1" alt="khaitk" /></a> </p>
-</details>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaitk&row=1" alt="khaitk" /></a> </p> -->
+</details> -->
 
 
 
