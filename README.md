@@ -117,6 +117,11 @@
  </p>
  </details>
  
+ <!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khaitk&theme=github-compact)](https://github.com/khaitk/github-readme-activity-graph)
+
+ 
 <!-- <details open="">
 <summary>
  📔 GitHub Stats:
