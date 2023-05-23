@@ -119,7 +119,8 @@
  
  <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Khải TK's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khaitk&theme=dracula)](https://github.com/khaitk/github-readme-activity-graph)
+[![Khải TK's github activity graph](https://activity-graph.herokuapp.com/graph?username=khaitk&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+
 
  
 <!-- <details open="">
