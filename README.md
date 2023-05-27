@@ -34,9 +34,9 @@
         Back end
     </summary>
     <p align="left"> 
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<!--         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-        </a> 
+        </a>  -->
         <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /> </a> 
         <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
