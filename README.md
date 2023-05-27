@@ -129,4 +129,6 @@ Contact with me🤝:
 <a href="https://github.com/khaitk">
 <img align="left" alt="Khai TK| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
+<a href="https://www.buymeacoffee.com/khaitkdev" target="_blank"><img  align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>
 <br>
+    
