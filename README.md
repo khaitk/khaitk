@@ -1,5 +1,3 @@
-<!-- <a href="https://gpvc.arturio.dev/khaitk"><img src="https://gpvc.arturio.dev/khaitk" align="right" alt="Visits"></a> -->
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@392c3515-8a19-481e-89e4-30bb7a1fc9f3)
 <h3 align="center">
     <samp>&gt; Hi 👋, I'm 
     <b><a target="_blank" href="#">Khrai TeKa</a></b>
@@ -34,9 +32,6 @@
         Back end
     </summary>
     <p align="left"> 
-<!--         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-        </a>  -->
         <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /> </a> 
         <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
@@ -92,31 +87,10 @@
         </a> 
     </p>
 </details>
-<!--   GitHub stats graph -->
-<!-- <details open="">
-    <summary>
-     📔 GitHub Stats:
-    </summary>
-    <br>
-    <!--         <p align="center" href="https://github.com/khaitk">
-        <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaitk&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-      </p> -->
-<!-- <p align="center">
-    <a href="https://github.com/khaitk">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaitk&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    </a> </br>
-    </p> -->
-<!--   <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=khaitk&theme=highcontrast&hide_border=true&border_radius=10" alt="KhaiTK" /></p> </br> -->
-<!--     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaitk&theme=tokyonight" alt="KhaiTK" /></p> -->
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaitk&row=1" alt="khaitk" /></a> </p> -->
-<!-- </details>  -->
 <h4>
 Contact with me🤝: 
 <h4>
 </hr>
-<!--   <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
-    <img align="left" alt="Khai TK | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-    </a> -->
 <a href="mailto:khaitkdev@gmail.com">
 <img align="left" alt="Khai TK | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
@@ -129,6 +103,5 @@ Contact with me🤝:
 <a href="https://github.com/khaitk">
 <img align="left" alt="Khai TK| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
-<a href="https://www.buymeacoffee.com/khaitkdev" target="_blank"><img  align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important; width: 150px !important" ></a>
 <br>
     
