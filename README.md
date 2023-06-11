@@ -91,17 +91,11 @@
 Contact with me🤝: 
 <h4>
 </hr>
-<a href="mailto:KhraiTeKa@gmail.com">
+<a href="mailto:khraiteka@gmail.com">
 <img align="left" alt="KhraiTeKa | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://www.instagram.com/KhraiTeKa">
 <img align="left" alt="KhraiTeKa| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>
-<a href="https://www.facebook.com/KhraiTeKa">
-<img align="left" alt="KhraiTeKa| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-</a>
-<a href="https://github.com/KhraiTeKa">
-<img align="left" alt="KhraiTeKa| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
 <br>
     
