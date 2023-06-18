@@ -1,4 +1,4 @@
-<div class="color: white">
+<div style="background-color:white">
 <h3 align="center">
     <samp>&gt; Hi 👋, I'm 
     <b><a target="_blank" href="#">Khrai TeKa</a></b>
