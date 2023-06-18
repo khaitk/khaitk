@@ -1,3 +1,4 @@
+<div class="color: white">
 <h3 align="center">
     <samp>&gt; Hi 👋, I'm 
     <b><a target="_blank" href="#">Khrai TeKa</a></b>
@@ -100,3 +101,4 @@ Contact with me🤝:
 </a>
 <br>
     
+</div>
