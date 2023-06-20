@@ -95,6 +95,14 @@
         </a>
     </p>
 </details>
+<details open="">
+    <summary>
+        Github : 
+    </summary>
+    <p align="center"> 
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=khraiteka&theme=dark" width="48%" align="center" >
+    </p>
+</details>
 <h4>
 Contact with me🤝: 
 <h4>
