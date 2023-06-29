@@ -102,8 +102,6 @@
     <p align="center"> 
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khraiteka&theme=dark" width="48%" align="center" >
     </p>
-     <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khraiteka&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-
 </details>
 <h4>
 Contact with me🤝: 
