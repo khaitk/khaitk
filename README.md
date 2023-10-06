@@ -93,11 +93,5 @@
           alt="postgresql" width="40" height="40" />
       </a>
   
-      
-<div align="center">
-  <h3> Github: <h3>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<h3> Github: <h3>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
