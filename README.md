@@ -92,8 +92,12 @@
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
           alt="postgresql" width="40" height="40" />
       </a>
-  <h3> Github: <h3>
+  
       
-  [![](https://raw.githubusercontent.com/khraiteka/khraiteka/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/khraiteka/khraiteka/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
+  <h3> Github: <h3>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
