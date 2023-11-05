@@ -27,71 +27,19 @@
 
 - 📫 How to reach me **khraiteka@gmail.com** 
     
-    <h3> Contact with me🤝: <h3>
-      </hr>
-      <a href="mailto:khraiteka@gmail.com">
-        <img align="left" alt="KhraiTeKa | Gmail" width="26px"
-          src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-      </a>
-      <a href="https://www.instagram.com/KhraiTeKa">
-        <img align="left" alt="KhraiTeKa| Instagram" width="24px"
-          src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-      </a>
-      <h3 align="left">Languages and Tools:</h3>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40"
-          height="40" />
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react" width="40" height="40" />
-      </a>
-      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"
-          height="40" />
-      </a>
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-          alt="laravel" width="40" height="40" />
-      </a>
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
-      </a>
-      <a href="https://circleci.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg"
-          alt="circleci" width="40" height="40" />
-      </a>
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-          height="40" />
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-      </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-          width="40" height="40" />
-      </a>
-      <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
-          alt="linux" width="40" height="40" />
-      </a>
-      <a href="https://socket.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket-io" width="40"
-          height="40" />
-      </a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql" width="40" height="40" />
-      </a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          alt="postgresql" width="40" height="40" />
-      </a>
-  
+<h3> Contact with me🤝: <h3>
+  </hr>
+  <a href="mailto:khraiteka@gmail.com">
+    <img align="left" alt="KhraiTeKa | Gmail" width="26px"
+      src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://www.instagram.com/KhraiTeKa">
+    <img align="left" alt="KhraiTeKa| Instagram" width="24px"
+      src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+<h3 align="left">Languages and Tools:</h3>
+
+[![SkillIcons](https://skillicons.dev/icons?i=laravel,php,nodejs,py,django,spring,mysql,postman,firebase,docker,linux,bash,git,jenkins)](https://skillicons.dev)<br/>
+
 <h3> Github: <h3>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
