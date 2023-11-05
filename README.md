@@ -39,7 +39,7 @@
   </a>
 <h3 align="left">Languages and Tools:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=laravel,php,nodejs,py,django,spring,mysql,postman,firebase,docker,linux,bash,git,jenkins)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=laravel,php,nodejs,py,django,mysql,postman,firebase,docker,linux,bash,git,jenkins)](https://skillicons.dev)<br/>
 
 <h3> Github: <h3>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
