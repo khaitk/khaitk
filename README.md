@@ -37,6 +37,8 @@
     <img align="left" alt="KhraiTeKa| Instagram" width="24px"
       src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
+  
+  </br>
 <h3 align="left">Languages and Tools:</h3>
 
 [![SkillIcons](https://skillicons.dev/icons?i=laravel,php,react,nodejs,py,django,mysql,postman,firebase,docker,linux,bash,git,jenkins)](https://skillicons.dev)<br/>
