@@ -39,7 +39,7 @@
   </a>
   
   </br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Language and tools 🛠:</h3>
 
 [![SkillIcons](https://skillicons.dev/icons?i=laravel,php,react,nodejs,py,django,mysql,postman,firebase,docker,linux,bash,git,jenkins)](https://skillicons.dev)<br/>
 
