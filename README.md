@@ -23,7 +23,7 @@
 
 - 🤝 My blogger [KhaiTK](https://khaitk.blogspot.com/) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/khaitk](https://github.com/khaitk) 
+- 👨‍💻 All of my projects are available at [https://github.com/ka2-tech](https://github.com/ka2-tech) 
 
 - 📫 How to reach me **khraiteka@gmail.com** 
     
