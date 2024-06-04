@@ -1,7 +1,7 @@
 <div style="background-color:white">
   <h1 align="center">
     <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=F74E4E&&height=70&duration=4000&lines=Hi!+👋;+I'm+Khai+TK!;" />
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=F74E4E&&height=70&duration=4000&lines=Hi!+👋;+I'm+Mai+Sheneka!;" />
   </h1>
   <p align="center">
     <!-- Organisation  -->
