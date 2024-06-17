@@ -1,29 +1,15 @@
 <div style="background-color:white">
   <h1 align="center">
     <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=F74E4E&&height=70&duration=4000&lines=Hi!+👋;+I'm+Mai+Sheneka!;" />
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=F74E4E&&height=70&duration=4000&lines=Hi!+👋;+I'm+isynka!;" />
   </h1>
-  <p align="center">
-    <!-- Organisation  -->
-    <samp>
-      <a href="https://www.google.com/search?q=kh%E1%BA%A3i+tk">「 Google Me 」</a>
-      <br> 「 I am a backend developer from <b>Vietnam</b> 」 <br>
-      <br>
-      <br>
-    </samp>
-  </p>
-  <img align="right" alt="Coding" width="400"
-    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+ 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=khraiteka&label=Profile%20views&color=0e75b6&style=flat"
       alt="khraiteka" />
   </p> 
     
-- 🌱 I’m currently learning **DevOps & Kubernetes and Github actions** 
-
-- 🤝 My blogger [KhaiTK](https://khaitk.blogspot.com/) 
-
-- 👨‍💻 All of my projects are available at [https://github.com/k2-itp](https://github.com/k2-itp) 
+- 🌱 I’m currently learning **Amazon Web Services** 
 
 - 📫 How to reach me **khraiteka@gmail.com** 
     
@@ -33,8 +19,8 @@
     <img align="left" alt="KhraiTeKa | Gmail" width="26px"
       src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/KhraiTeKa">
-    <img align="left" alt="KhraiTeKa| Instagram" width="24px"
+  <a href="https://www.instagram.com/isynka">
+    <img align="left" alt="isynka| Instagram" width="24px"
       src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
   
