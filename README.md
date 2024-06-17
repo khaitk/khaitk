@@ -51,5 +51,13 @@
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white) 
 
 <br/>
-<h3> Github: <h3>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<h3> GitHub Stats: <h3>
+
+<p align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isynka&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isynka&show_icons=true&locale=en&theme=vision-friendly-dark" alt="hvloan" /></p>
+
+</p>
