@@ -14,7 +14,7 @@
 ```JavaScript
 const aboutMe = {
   name: 'Khai TK',
-  age: '25 years old';
+  age: '25 years old',
   role: [
     'Back End Developer'
   ]
