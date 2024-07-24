@@ -58,9 +58,9 @@ function contactMe() {
 
   <p align="center">
     
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isynka&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khaitk&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isynka&show_icons=true&locale=en&theme=vision-friendly-dark" alt="hvloan" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaitk&show_icons=true&locale=en&theme=vision-friendly-dark" alt="hvloan" /></p>
   
   </p>
 </div>
