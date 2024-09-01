@@ -1,9 +1,4 @@
 <div style="background-color:white">
-  <h1 align="center">
-    <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=F74E4E&&height=70&duration=4000&lines=Hi!+👋;+I'm+Khai+TK!;" />
-  </h1>
- 
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=khraiteka&label=Profile%20views&color=0e75b6&style=flat"
       alt="khraiteka" />
@@ -53,14 +48,3 @@ function contactMe() {
 
 </div>
 <br/>
-<div align="center">
-  <h3> GitHub Stats: <h3>
-
-  <p align="center">
-    
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khaitk&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaitk&show_icons=true&locale=en&theme=vision-friendly-dark" alt="hvloan" /></p>
-  
-  </p>
-</div>
