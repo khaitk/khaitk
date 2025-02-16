@@ -16,7 +16,7 @@ const aboutMe = {
 };
 
 function contactMe() {
-  return 'instagram' : https://www.instagram.com/khai_tk_dev/);
+  return 'instagram' : https://www.instagram.com/khai_tec/);
 }
 ```
 </br>
