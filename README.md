@@ -9,7 +9,7 @@
 ```JavaScript
 const aboutMe = {
   name: 'Khai TK',
-  age: '26 years old',
+  age: '27 years old',
   role: [
     'Fullstack Software Engineer'
   ]
